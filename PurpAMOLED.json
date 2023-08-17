@@ -5,10 +5,13 @@
         {
             "name": "@vve1",
             "id": "670986272377929743"
+        },
+        {
+            "name": "@luuxis",
+            "id": "547583385397231617"
         }
     ],
     "semanticColors": {
-            
         "HEADER_PRIMARY": [
             "#9C3EBB"
         ],
@@ -37,7 +40,7 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-           "#000000"
+           "#767676"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#120C13"
