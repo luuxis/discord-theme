@@ -61,7 +61,7 @@
             "#767676"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            "#767676"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -77,7 +77,7 @@
             "#1F1521"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#767676"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#A4A4A4"
